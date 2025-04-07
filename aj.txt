@@ -1,15 +1,5 @@
 
 Ajay is Hero
 Ajay is 2nd Hero
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-Ajay is 3rd Hero
-
-
-
-
-ajay is 4th hero
-
-=======
->>>>>>> bb9b747 (1st commit)
+Ajay is 3rajay is 4th hero
